@@ -7,6 +7,8 @@ export default function Home() {
       {"\n"}
       <a href="/api/wall-clock-after">/api/wall-clock-after</a>
       {"\n"}
+      <a href="/api/wall-clock-after-float-mix">/api/wall-clock-after-float-mix</a>
+      {"\n"}
       <a href="/api/wall-clock-waituntil">/api/wall-clock-waituntil</a>
       {"\n"}
       <a href="/api/wall-clock-float">/api/wall-clock-float</a>
